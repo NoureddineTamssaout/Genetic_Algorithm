@@ -1,1 +1,2 @@
 # Genetic_Algorithm
+In this implementation, we start by defining a fitness function, a mutation function, and a crossover function. We then define the main genetic algorithm function, which creates an initial population of random chromosomes, evaluates their fitness, and then iterates through a specified number of generations, creating a new population for each generation through a combination of crossover and mutation.
